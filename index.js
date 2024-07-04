@@ -7,7 +7,7 @@ const app = express()
 app.use(express.json());
 
 app.use("/clients", clientsRoutes);
-app.use("/products", productsRoutes);
+app.use("/products", productsRoutes);   // rotas 
 app.use("/orders", ordersRoutes);
 
 app.listen(3000, () => {
