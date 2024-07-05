@@ -13,7 +13,7 @@ Outras Ferramentas: Git, GitHub, VSCode, Postman
 
 Executando o Sistema
 Clone o repositório do GitHub:
-git clone https://github.com/LeoSntos/carrinho-de-compras.git
+git clone https://github.com/LeoSntos/carrinho-de-compras.git 
 
 Navegue até o diretório do projeto:
 cd carrinho-de-compras
@@ -23,10 +23,10 @@ npm install
 
 Configure o banco de dados PostgreSQL e as variáveis de ambiente no arquivo .env:
 
-DB_HOST=localhost
-DB_USER=seu_usuario
-DB_PASSWORD=sua_senha
-DB_NAME=seu_banco_de_dados
+DB_HOST=localhost </br>
+DB_USER=seu_usuario </br>
+DB_PASSWORD=sua_senha </br>
+DB_NAME=seu_banco_de_dados </br>
 
 Inicie o servidor:
 npm start
