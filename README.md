@@ -1,27 +1,27 @@
-Carrinho de Compras
+Carrinho de Compras </br>
 
-O Carrinho de Compras é uma API que permite gerenciar pedidos de compra, produtos e clientes. A API permite criar, listar e filtrar pedidos, além de gerenciar informações de produtos e clientes.
+O Carrinho de Compras é uma API que permite gerenciar pedidos de compra, produtos e clientes. A API permite criar, listar e filtrar pedidos, além de gerenciar informações de produtos e clientes. </br>
 
-Problema Resolvido
+Problema Resolvido</br>
 Gerenciar pedidos de compra pode ser complexo e demorado, especialmente quando se trata de armazenar e recuperar informações sobre clientes, produtos e detalhes dos pedidos. Esta API resolve o problema fornecendo uma interface simples para realizar essas operações de forma eficiente.
 
-Tecnologias Utilizadas
-Backend: Node.js, Express
-Banco de Dados: PostgreSQL
-Outras Ferramentas: Git, GitHub, VSCode, Postman
+Tecnologias Utilizadas </br>
+Backend: Node.js, Express </br>
+Banco de Dados: PostgreSQL </br>
+Outras Ferramentas: Git, GitHub, VSCode, Postman </br>
 
 
-Executando o Sistema
-Clone o repositório do GitHub:
-git clone https://github.com/LeoSntos/carrinho-de-compras.git 
+Executando o Sistema </br>
+Clone o repositório do GitHub: </br>
+git clone https://github.com/LeoSntos/carrinho-de-compras.git </br>
 
-Navegue até o diretório do projeto:
-cd carrinho-de-compras
+Navegue até o diretório do projeto </br>
+cd carrinho-de-compras </br>
 
-Instale as dependências do projeto:
-npm install
+Instale as dependências do projeto </br>
+npm install </br>
 
-Configure o banco de dados PostgreSQL e as variáveis de ambiente no arquivo .env:
+Configure o banco de dados PostgreSQL e as variáveis de ambiente no arquivo .env </br>
 
 DB_HOST=localhost </br>
 DB_USER=seu_usuario </br>
