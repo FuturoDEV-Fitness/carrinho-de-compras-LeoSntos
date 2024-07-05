@@ -28,29 +28,29 @@ DB_USER=seu_usuario </br>
 DB_PASSWORD=sua_senha </br>
 DB_NAME=seu_banco_de_dados </br>
 
-Inicie o servidor:
-npm start
+Inicie o servidor: </br>
+npm start </br>
 
-Clientes
-POST /clients: Cria um novo cliente.
-GET /clients: Lista todos os clientes.
-GET /clients/id: Obtém informações de um cliente específico.
+Clientes </br>
+POST /clients: Cria um novo cliente. </br>
+GET /clients: Lista todos os clientes. </br>
+GET /clients/id: Obtém informações de um cliente específico. </br>
 
-Produtos
-POST /products: Cria um novo produto.
-GET /products: Lista todos os produtos ou filtra produtos por nome ou descrição.
-GET /products/id: Obtém informações de um produto específico.
+Produtos </br>
+POST /products: Cria um novo produto. </br>
+GET /products: Lista todos os produtos ou filtra produtos por nome ou descrição. </br>
+GET /products/id: Obtém informações de um produto específico. </br>
 
-Pedidos
-POST /orders: Cria um novo pedido.
-GET /orders/: Obtém informações detalhadas de um pedido específico.
+Pedidos </br>
+POST /orders: Cria um novo pedido. </br>
+GET /orders/: Obtém informações detalhadas de um pedido específico. </br>
 
-Melhorias Futuras
-Implementar autenticação e autorização.
-Adicionar funcionalidades avançadas de busca e filtragem de pedidos.
-Melhorar a interface de resposta da API com mais informações.
-Implementar testes automatizados para garantir a qualidade do código.
-Permitir que os usuários adicionem avaliações e comentários sobre os produtos.
+Melhorias Futuras </br>
+Implementar autenticação e autorização. </br>
+Adicionar funcionalidades avançadas de busca e filtragem de pedidos. </br>
+Melhorar a interface de resposta da API com mais informações. </br>
+Implementar testes automatizados para garantir a qualidade do código. </br>
+Permitir que os usuários adicionem avaliações e comentários sobre os produtos. </br>
 
-Contribuição
+Contribuição</br>
 Este projeto foi desenvolvido como parte de um portfólio pessoal e está aberto para contribuições e sugestões de melhorias. Sinta-se à vontade para explorar o código-fonte e enviar feedback.
